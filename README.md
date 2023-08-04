@@ -1,0 +1,13 @@
+# Bem Vindo
+
+
+- 👋 0i, eu sou @deborarodrigues08
+- 👀 estou interessado em programaçã0 ...
+- 🌱 atualmente estou estudando sobre JavaScript...
+- 💞️ estou trabalhando com os projetos de Pensamento Computacional...
+- 📫 voce pode entrar em contato comigo pelo email debora.rodrigues.pereira@escola.pr.gov.br ...
+
+<!---
+deborarodrigues08/deborarodrigues08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
